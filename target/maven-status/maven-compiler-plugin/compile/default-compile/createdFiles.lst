@@ -1,0 +1,7 @@
+nisum\qa\practice\base\TestBase.class
+nisum\qa\practice\pages\ContactsPage.class
+nisum\qa\practice\util\TestUtil.class
+nisum\qa\practice\pages\HomePage.class
+nisum\qa\practice\pages\SignUpPage.class
+nisum\qa\practice\pages\LoginPage.class
+nisum\qa\practice\pages\DealsPage.class
