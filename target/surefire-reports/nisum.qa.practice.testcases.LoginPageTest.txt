@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: nisum.qa.practice.testcases.LoginPageTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 48.986 sec <<< FAILURE!
+loginTest(nisum.qa.practice.testcases.LoginPageTest)  Time elapsed: 1.637 sec  <<< FAILURE!
+java.lang.AssertionError: expected [nisum.qa.practice.pages.HomePage@463fd068] but found [nisum.qa.practice.pages.HomePage@895e367]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:442)
+	at nisum.qa.practice.testcases.LoginPageTest.loginTest(LoginPageTest.java:41)
+
